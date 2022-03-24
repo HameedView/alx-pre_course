@@ -1,1 +1,1 @@
-# Update README ths is alx pre course
+# ths is alx pre course
